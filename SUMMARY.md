@@ -8,7 +8,7 @@
   * [集合框架复习](java-sebu-fen/ji-he-kuang-jia-fu-xi.md)
   * [JAVA IO 复习](java-sebu-fen/java-io-fu-xi.md)
   * [多线程复习](java-sebu-fen/duo-xian-cheng-fu-xi.md)
-  * JDBC 编程复习
+  * [JDBC 编程复习](java-sebu-fen/jdbc-bian-cheng-fu-xi.md)
   * 网络编程复习
   * JVM 专项复习
 * [专题部分](zhuan-ti-bu-fen.md)
