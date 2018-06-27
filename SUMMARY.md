@@ -15,5 +15,5 @@
   * [高级数据结构和算法复习](zhuan-ti-bu-fen/gao-ji-shu-ju-jie-gou-he-suan-fa-fu-xi.md)
   * [常用设计模式复习](zhuan-ti-bu-fen/chang-yong-she-ji-mo-shi-fu-xi.md)
   * [存储章节复习](zhuan-ti-bu-fen/cun-chu-zhang-jie-fu-xi.md)
-  * Linux章节复习
+  * [Linux章节复习](zhuan-ti-bu-fen/linuxzhang-jie-fu-xi.md)
 
