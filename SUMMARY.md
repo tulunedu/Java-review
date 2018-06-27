@@ -12,7 +12,7 @@
   * [网络编程复习](java-sebu-fen/wang-luo-bian-cheng-fu-xi.md)
   * [JVM 专项复习](java-sebu-fen/jvm-zhuan-xiang-fu-xi.md)
 * [专题部分](zhuan-ti-bu-fen.md)
-  * 高级数据结构和算法复习
+  * [高级数据结构和算法复习](zhuan-ti-bu-fen/gao-ji-shu-ju-jie-gou-he-suan-fa-fu-xi.md)
   * 常用设计模式复习
   * 存储章节复习
   * Linux章节复习
