@@ -1,5 +1,6 @@
 # Summary
 
 * [首页](README.md)
-* [First Chapter](chapter1.md)
+* [JAVA基础](chapter1.md)
+  * [JAVA语言基础复习](chapter1/javayu-yan-ji-chu-fu-xi.md)
 
