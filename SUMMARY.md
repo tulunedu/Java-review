@@ -6,7 +6,7 @@
   * [JAVA基础数据结构和算法复习](chapter1/javaji-chu-shu-ju-jie-gou-he-suan-fa-fu-xi.md)
 * [JAVA SE部分](java-sebu-fen.md)
   * [集合框架复习](java-sebu-fen/ji-he-kuang-jia-fu-xi.md)
-  * JAVA IO 复习
+  * [JAVA IO 复习](java-sebu-fen/java-io-fu-xi.md)
   * 多线程复习
   * JDBC 编程复习
   * 网络编程复习
