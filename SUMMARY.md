@@ -10,7 +10,7 @@
   * [多线程复习](java-sebu-fen/duo-xian-cheng-fu-xi.md)
   * [JDBC 编程复习](java-sebu-fen/jdbc-bian-cheng-fu-xi.md)
   * [网络编程复习](java-sebu-fen/wang-luo-bian-cheng-fu-xi.md)
-  * JVM 专项复习
+  * [JVM 专项复习](java-sebu-fen/jvm-zhuan-xiang-fu-xi.md)
 * [专题部分](zhuan-ti-bu-fen.md)
   * 高级数据结构和算法复习
   * 常用设计模式复习
